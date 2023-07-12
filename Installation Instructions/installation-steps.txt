@@ -1,0 +1,15 @@
+Installation Steps
+================
+
+Database Configuration:
+==================
+1. Open phpmyadmin
+2. Create New Database named "chat".
+3. Import database tables in newly created database "chat" from downloaded folder -> Installation Instructions -> chat.sql.
+
+how to use
+----------
+In local server Like (Xamp || Wamp) if you signup in one browser than open another browser and signup also and start chating.
+
+
+
